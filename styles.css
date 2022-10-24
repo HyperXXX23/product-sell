@@ -89,6 +89,7 @@ header .nav-izq{
   header .nav-der{
     flex-direction: column;
     justify-content: center;
+
   }
   header .nav-izq{
     flex-direction: column;
